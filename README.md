@@ -1,0 +1,6 @@
+# Automatic_month_calendar
+ This code generate calendar of any month of any English year.
+ Here just need the year and the desired month from the user in input panel.
+ Then boom calendar of that month will appear after clicking Enter....     
+ :p :p 
+ N.B- Use C++ compiler to run the code(codeblocks/Dev c++ etc) or online IDE( www.ideone.com etc)...
